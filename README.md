@@ -9,7 +9,7 @@ Skills: HTML/ CSS/JavaScript/ES6/React/Bootstrap/Tailwind CSS/ MongoDB/Node.js/F
 - 🔭 I’m currently working on a new project 
 - 🌱 I’m currently learning React-Redux 
 - 👯 I’m looking to collaborate on Betterment of the community 
-- 😄 Pronouns: Shakil 
+- 😄 Pronouns: Chanchal 
 - ⚡ Fun fact: I am still afraid of "Ghost" :) 
 
 
@@ -20,9 +20,7 @@ Skills: HTML/ CSS/JavaScript/ES6/React/Bootstrap/Tailwind CSS/ MongoDB/Node.js/F
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanchal26)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chanchal26&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chanchal26)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chanchal26&show_icons=true)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chanchal26)  
 
