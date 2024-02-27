@@ -10,6 +10,6 @@ I am passionately curious about learning and writing code. I am a quick learner 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanchal26)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chanchal26)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chanchal26)]
+[!GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chanchal26)]  
 
