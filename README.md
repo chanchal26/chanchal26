@@ -11,8 +11,5 @@ I am passionately curious about learning and writing code. I am a quick learner 
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanchal26&show_icons=true&theme=gotham" alt="chanchal26" />
-
-📈 My Github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chanchal26&show_icons=true&theme=gotham" alt="chanchal26" />
+<img src="https://github-readme-stats.vercel.app/api?username=chanchal26&show_icons=true&theme=gotham" alt="chanchal26" />
 
