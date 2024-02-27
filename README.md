@@ -14,3 +14,4 @@ Skills: HTML/ CSS/JavaScript/ES6/React/Bootstrap/Tailwind CSS/MongoDB/Node.js/ F
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=chanchal26)  
 
+<a href="https://app.daily.dev/chanchal_26"><img src="https://api.daily.dev/devcards/v2/2CwUDFKe1yPB3tMTvnqGU.png?type=wide&r=gdg" width="652" alt="Md Chanchal Hossain's Dev Card"/></a>
