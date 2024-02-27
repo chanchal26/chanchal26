@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Md. Chanchal Hossain
+## Hi there <img src="assets/hello.gif" width="28px" alt="hi">, I'm Md. Chanchal Hossain
 # I am a Web Developer
 
 
