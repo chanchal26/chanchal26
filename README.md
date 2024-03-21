@@ -15,6 +15,4 @@ I am passionately curious about learning and writing code. I am a quick learner 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanchal26&show_icons=true&theme=gotham" alt="chanchal26" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chanchal26&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=chanchal26&label=Profile%20Views&color=6&icon=2&pretty=false)](https://visitcount.itsvg.in)
