@@ -2,10 +2,13 @@
 # I am a Web Developer
 
 
-I am passionately curious about learning and writing code. I am a quick learner which is my strength. Besides, I am always curious to explore new technologies and can easily adapt to any new technologies. Gradually, I have been improving my interpersonal skills and my strategic thinking. Now I am searching for a remote job (full-time/intern) in a reputed company where I can apply my skills and collaborate on the company's success and also gather knowledge from real-world projects.
+I am passionately curious about learning and writing code. I am a quick learner which is my strength. Besides, I am always interested in exploring new technologies and can easily adapt to any new technologies. Gradually, I have been improving my interpersonal skills and my strategic thinking. Now I am searching for a remote job (full-time/intern) in a reputed company where I can apply my skills, collaborate on the company's success, and gather knowledge from real-world projects.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-chanchal-hossain) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/chanchal_2613) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chanchal_2613)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-chanchal-hossain)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook)](https://www.facebook.com/chanchal2613)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chanchal_2613)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?logo=X)](https://twitter.com/chanchal_2613)
 
 # 💻 Tech Stack:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
