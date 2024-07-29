@@ -2,7 +2,7 @@
 # I am a Web Developer
 
 
-I am passionately curious about learning and writing code. I am a quick learner which is my strength. Besides, I am always interested in exploring new technologies and can easily adapt to any new technologies. Gradually, I have been improving my interpersonal skills and my strategic thinking. Now I am searching for a remote job (full-time/intern) in a reputed company where I can apply my skills, collaborate on the company's success, and gather knowledge from real-world projects.
+I am passionately curious about learning and writing code. I am a quick learner which is my strength. Besides, I am always interested in exploring new technologies and can easily adapt to any new technologies. Gradually, I have been improving my interpersonal skills and my strategic thinking.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-chanchal-hossain)
